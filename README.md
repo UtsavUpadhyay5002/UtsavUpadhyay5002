@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🎓 CS Undergrad at University of New Brunswick, Fredericton, NB, CA
+- 🔭 I’m currently working on building variety of **WebScrapping applications** using Python
+- 🌱 I’m currently learning Python's variuos webScrapping tools
+- 📫 How to reach me: utsavupadhyay5002@gmail.com or [LinkedIn](www.linkedin.com/in/utsav-upadhyay-859525286)
+- 😄 Pronouns: He/Him
 <!--
 **UtsavUpadhyay5002/UtsavUpadhyay5002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
