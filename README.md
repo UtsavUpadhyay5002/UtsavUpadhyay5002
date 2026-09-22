@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 - 🎓 CS Undergrad at University of New Brunswick, Fredericton, NB, CA
-- 🔭 I’m currently working on building variety of **WebScrapping applications** using Python
-- 🌱 I’m currently learning Python's variuos webScrapping tools
-- 📫 How to reach me: utsavupadhyay5002@gmail.com or [LinkedIn](www.linkedin.com/in/utsav-upadhyay-859525286)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/utsav-upadhyay-859525286)
 - 😄 Pronouns: He/Him
 
 ## 💻 Tech Stack
